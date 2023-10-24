@@ -24,4 +24,3 @@ union
 select  'High Salary' as category , 0 as accounts_count
 ) as b
 group by b.category
-
